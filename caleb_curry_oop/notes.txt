@@ -1,0 +1,14 @@
+class
+    - describes the structure
+
+object(instance) 
+    - an example of that class(instance)
+
+instatiating
+    - creating of an object
+    
+data members
+    - variables
+
+methods
+    - functions inna di class
