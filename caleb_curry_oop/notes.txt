@@ -12,3 +12,16 @@ data members
 
 methods
     - functions inna di class
+
+abstraction
+    - the concept of making something easy by hiding complicated stuff(code)
+
+encapsulation
+    - granting access to private data only through public interfaces(modifiers)
+
+inheritance
+    - concept where we can create child classes that can inherit properties    
+      from parent class
+
+polymorphishm
+    - concept were we can treat multiple diff objects as their base object type
